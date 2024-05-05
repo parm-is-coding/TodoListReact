@@ -1,0 +1,27 @@
+we installed material ui as well as the icons addition because we want to use the nicely crafted premade components from this library for our frontend
+axios allows use to
+    -Make XMLHttpRequests from browser
+    -make http requests from nodejs
+    -supports the promise api (i dont know what the promise api is i vaguely know that its related to asynchronus programming)
+    -intercept request response
+    -Transform request and response data
+    -automatic transforms for JSON data (what is a transform)
+    -cancel requests
+    -Automatic data object serialization to multipart/form-data and x-www-form-urlencoded body encodings
+    -Client side support for protecting  against  XSRF
+specifically in this project we used the following features:
+
+
+classnames allows me to conditionally join classnames together:
+why is this useful?
+
+AddTaskForm.js
+
+Task.js
+a react component that will represent the Tasks we write in our TodoList app
+
+
+ES7+ React snippets
+rafc: ReactArrowFunctionComponent 
+a function that returns a div containing all the subcomponents consisting of the component you are trying to
+create
